@@ -17,5 +17,7 @@ tcl : scripts built to use the ns2 cpp files
 nam : network animator for user view (UI)
 tr  : performance measurements in the trace file
 
+Details of trace file can be found here:https://www.isi.edu/nsnam/ns/doc/node289.html
+
 ***
 lrktni$wlgrbgftrlrktni$wl
