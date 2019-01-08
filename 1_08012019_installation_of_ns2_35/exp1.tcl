@@ -1,11 +1,11 @@
 set ns [new Simulator]
 
 #all events will be traced in that file
-set tr [open out.tr w]
+set tr [open exp1.tr w]
 $ns trace-all $tr
 
 #nam file will be used in visualisation
-set namtr [open out.nam w]
+set namtr [open exp1.nam w]
 $ns namtrace-all $namtr
 
 #create 5 nodes
