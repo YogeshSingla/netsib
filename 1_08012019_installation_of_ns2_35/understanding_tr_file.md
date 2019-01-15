@@ -1,4 +1,4 @@
-## Understanding the tr file:
+## Understanding the tr file(wired network):
 
 Example tr row:
 - 1.69632 3 0 cbr 512 ------- 0 3.0 5.0 34 34

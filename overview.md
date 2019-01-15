@@ -19,5 +19,8 @@ tr  : performance measurements in the trace file
 
 Details of trace file can be found here:https://www.isi.edu/nsnam/ns/doc/node289.html
 
+## References
+The basics of ns are here: http://nile.wpi.edu/NS/simple_ns.html
+This is useful to understand the tcl file.
 ***
 lrktni$wlgrbgftrlrktni$wl
