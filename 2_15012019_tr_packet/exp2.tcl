@@ -41,16 +41,18 @@ set n5 [$ns node]
 # format: $ns duplex-link node1 node2 bandwidth delay queue-type.
 $ns duplex-link $n0 $n2 2Mb 10ms DropTail
 $ns duplex-link $n1 $n2 2Mb 10ms DropTail
-$ns duplex-link $n2 $n3 300kb 100ms DropTail
+#$ns duplex-link $n2 $n3 300kb 100ms DropTail
+$ns simplex-link $n2 $n3 300kb 100ms DropTail
+$ns simplex-link $n3 $n2 300kb 100ms DropTail
 $ns duplex-link $n3 $n4 500kb 40ms DropTail
 $ns duplex-link $n3 $n5 500kb 30ms DropTail
 
 # describe nam network display
-$ns duplex-link-op $n2 $n3 orient right
-$ns duplex-link-op $n2 $n0 orient left-up
-$ns duplex-link-op $n2 $n1 orient left-down
-$ns duplex-link-op $n3 $n4 orient right-up
-$ns duplex-link-op $n3 $n5 orient right-down
+#$ns duplex-link-op $n2 $n3 orient right
+#$ns duplex-link-op $n2 $n0 orient left-up
+#$ns duplex-link-op $n2 $n1 orient left-down
+#$ns duplex-link-op $n3 $n4 orient right-up
+#$ns duplex-link-op $n3 $n5 orient right-down
 
 
 # set udp connection

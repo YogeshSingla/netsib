@@ -20,7 +20,8 @@ tr  : performance measurements in the trace file
 Details of trace file can be found here:https://www.isi.edu/nsnam/ns/doc/node289.html
 
 ## References
-The basics of ns are here: http://nile.wpi.edu/NS/simple_ns.html
-This is useful to understand the tcl file.
+1. The basics of ns are here: http://nile.wpi.edu/NS/simple_ns.html. This is useful to understand the tcl file.
+2. Intermediate ns: https://www-sop.inria.fr/members/Eitan.Altman/ns.htm
+3. http://nile.wpi.edu/NS/
 ***
 lrktni$wlgrbgftrlrktni$wl
