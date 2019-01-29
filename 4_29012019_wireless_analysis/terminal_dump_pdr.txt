@@ -1,0 +1,119 @@
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:239316 r:10732, r/s Ratio:0.0448, f:3253 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 20
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:43956 r:14592, r/s Ratio:0.3320, f:2601 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 30
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 30
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+Number of nodes: 30
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:68376 r:15013, r/s Ratio:0.2196, f:2220 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 40
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+Number of nodes: 40
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:92796 r:13628, r/s Ratio:0.1469, f:3755 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 50
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+Number of nodes: 50
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:117216 r:17226, r/s Ratio:0.1470, f:0 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 60
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+Number of nodes: 60
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:141636 r:17124, r/s Ratio:0.1209, f:10 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 70
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+Number of nodes: 70
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:166056 r:16670, r/s Ratio:0.1004, f:166 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 80
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+Number of nodes: 80
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:190476 r:15283, r/s Ratio:0.0802, f:898 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 90
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+Number of nodes: 90
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:214896 r:13421, r/s Ratio:0.0625, f:1646 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ ns network1.tcl 
+num_nodes is set 100
+warning: Please use -channel as shown in tcl/ex/wireless-mitf.tcl
+INITIALIZE THE LIST xListHead
+Starting Simulation...
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+SORTING LISTS ...DONE!
+NS EXITING...
+Number of nodes: 100
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ awk -f pdf.awk out.tr
+cbr s:239316 r:5651, r/s Ratio:0.0236, f:9508 
+kirito@sw2-OptiPlex-9020:~/netsim_kirito/4_29012019_wireless_analysis$ 
