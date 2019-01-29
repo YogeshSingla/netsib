@@ -8,6 +8,13 @@ packet size - 512B
 nodes movement - static
 
 ## solution
+
+### files:
+network1.tcl : main tcl file
+pdf.awk : pdr awk file
+out.tr : new tr file
+out.nam : used for  nam
+
 ### New tr file :
 ```
 r -t 0.000000000 -Hs 7 -Hd -2 -Ni 7 -Nx 49.53 -Ny 22.53 -Nz 0.00 -Ne -1.000000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 7.0 -Id 1.5 -It cbr -Il 512 -If 2 -Ii 5 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
@@ -31,5 +38,8 @@ r[1] -t[2] 0.000000000[3]
 [44]-[51] : Packet info at Application level
 
 ### Results
+DSDV
 Nodes 	:		10		20		30		40		50		60		70		80		90		100
 PDR 	:		0.8622	0.3320	0.2196	0.1496	0.1470	0.1209	0.1004	0.0802	0.0625	0.0236
+
+AODV
