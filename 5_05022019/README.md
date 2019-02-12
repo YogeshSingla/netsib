@@ -1,4 +1,6 @@
 ## Lab 5
+
+### Solutions P1
 Understand the working flow of the AODV protocol implemented in ns2 and try to answer the following questions :
 1. How to enable HELLO packets in AODV ? Name the file in which you can do it.
 
@@ -83,6 +85,25 @@ It is also in aodv.cc
 
 *** 
 ref: 	https://www.researchgate.net/publication/45930883_A_Tutorial_on_the_Implementation_of_Ad-hoc_On_Demand_Distance_Vector_AODV_Protocol_in_Network_Simulator_NS-2
+
+### Solution P2
+#### Download and Configure wfrp in ns2 
+There are multiple ways to go about doing this:
+1. Use these links to configure files step by step.
+http://all-time-ns-2.blogspot.com/2010/10/adding-new-routing-protocol-in-ns-2.html  
+https://www.nsnam.com/2013/07/wsn-flooding-routing-protocol-wfrp-in.html
+
+2. Use this patch to do all things 'automatically'.  
+https://groups.google.com/forum/#!msg/ns-users/JmCEgUbiLro/J7vos5eqAgAJ
+
+### Solution P3
+```
+exp1.tcl
+performance_analysis.awk
+```
+PDR:	 100
+End to end delay of packets received:	 0.0169278 s
+Throughput:			 281.139 bits/second
 
 *** 
 Imp links:
