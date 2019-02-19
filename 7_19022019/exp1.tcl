@@ -107,7 +107,7 @@ for {set i 0} {$i < $val(nn) } {incr i} {
     $ns_ at 71.0 "$node_($i) reset";
 }
 $ns_ at 71.0 "stop"
-$ns_ at 71.01 "puts \"NS EXITING...\" ; $ns_ halt"
+$ns_ at 71.0 "puts \"NS EXITING...\" ; $ns_ halt"
 
 proc stop {} {
     global ns_ tracefd
