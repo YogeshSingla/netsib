@@ -1,0 +1,438 @@
+M 0.00000 2 (15.70, 7.62, 0.00), (15.70, 7.62), 0.00
+M 0.00000 3 (10.78, 13.90, 0.00), (10.78, 13.90), 0.00
+M 0.00000 4 (9.00, 0.10, 0.00), (9.00, 0.10), 0.00
+M 0.00000 5 (5.03, 8.07, 0.00), (5.03, 8.07), 0.00
+M 0.00000 6 (7.93, 19.31, 0.00), (7.93, 19.31), 0.00
+M 0.00000 7 (8.01, 9.37, 0.00), (8.01, 9.37), 0.00
+M 0.00000 8 (7.75, 2.50, 0.00), (7.75, 2.50), 0.00
+M 0.00000 9 (15.36, 0.40, 0.00), (15.36, 0.40), 0.00
+M 0.00000 10 (1.89, 11.20, 0.00), (1.89, 11.20), 0.00
+M 0.00000 11 (7.77, 17.11, 0.00), (7.77, 17.11), 0.00
+M 0.00000 12 (18.12, 15.08, 0.00), (18.12, 15.08), 0.00
+M 0.00000 13 (9.56, 9.80, 0.00), (9.56, 9.80), 0.00
+M 0.00000 14 (11.49, 5.36, 0.00), (11.49, 5.36), 0.00
+M 0.00000 15 (6.15, 13.07, 0.00), (6.15, 13.07), 0.00
+M 0.00000 16 (11.22, 18.79, 0.00), (11.22, 18.79), 0.00
+M 0.00000 17 (6.94, 17.84, 0.00), (6.94, 17.84), 0.00
+M 0.00000 18 (15.12, 15.50, 0.00), (15.12, 15.50), 0.00
+M 0.00000 19 (17.88, 0.56, 0.00), (17.88, 0.56), 0.00
+M 0.00000 20 (7.76, 13.49, 0.00), (7.76, 13.49), 0.00
+M 0.00000 21 (0.09, 11.49, 0.00), (0.09, 11.49), 0.00
+M 0.00000 22 (4.53, 15.19, 0.00), (4.53, 15.19), 0.00
+M 0.00000 23 (6.82, 13.74, 0.00), (6.82, 13.74), 0.00
+M 0.00000 24 (3.06, 1.96, 0.00), (3.06, 1.96), 0.00
+M 0.00000 25 (6.01, 10.82, 0.00), (6.01, 10.82), 0.00
+M 0.00000 26 (2.05, 4.08, 0.00), (2.05, 4.08), 0.00
+M 0.00000 27 (5.70, 11.76, 0.00), (5.70, 11.76), 0.00
+M 0.00000 28 (0.36, 9.82, 0.00), (0.36, 9.82), 0.00
+M 0.00000 29 (17.69, 13.21, 0.00), (17.69, 13.21), 0.00
+M 0.00000 30 (8.95, 14.40, 0.00), (8.95, 14.40), 0.00
+M 0.00000 31 (8.95, 10.36, 0.00), (8.95, 10.36), 0.00
+M 0.00000 32 (2.65, 10.78, 0.00), (2.65, 10.78), 0.00
+M 0.00000 33 (6.78, 18.71, 0.00), (6.78, 18.71), 0.00
+M 0.00000 34 (4.74, 11.83, 0.00), (4.74, 11.83), 0.00
+M 0.00000 35 (3.06, 1.16, 0.00), (3.06, 1.16), 0.00
+M 0.00000 36 (7.85, 2.35, 0.00), (7.85, 2.35), 0.00
+M 0.00000 37 (17.36, 13.02, 0.00), (17.36, 13.02), 0.00
+M 0.00000 38 (9.78, 19.36, 0.00), (9.78, 19.36), 0.00
+M 0.00000 39 (15.11, 9.70, 0.00), (15.11, 9.70), 0.00
+M 0.00000 40 (19.57, 17.19, 0.00), (19.57, 17.19), 0.00
+M 0.00000 41 (17.01, 0.51, 0.00), (17.01, 0.51), 0.00
+M 0.00000 42 (19.26, 13.85, 0.00), (19.26, 13.85), 0.00
+M 0.00000 43 (13.62, 9.69, 0.00), (13.62, 9.69), 0.00
+M 0.00000 44 (12.93, 9.00, 0.00), (12.93, 9.00), 0.00
+M 0.00000 45 (14.03, 17.10, 0.00), (14.03, 17.10), 0.00
+M 0.00000 46 (10.89, 16.67, 0.00), (10.89, 16.67), 0.00
+M 0.00000 47 (15.93, 7.16, 0.00), (15.93, 7.16), 0.00
+M 0.00000 48 (6.40, 0.50, 0.00), (6.40, 0.50), 0.00
+M 0.00000 0 (0.00, 0.00, 0.00), (6.40, 0.50), 0.00
+M 0.00000 1 (15.00, 15.00, 0.00), (6.40, 0.50), 0.00
+s -t 11.000000000 -Hs 2 -Hd -2 -Ni 2 -Nx 15.70 -Ny 7.62 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 2.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 0 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 2 -Hd -2 -Ni 2 -Nx 15.70 -Ny 7.62 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 2.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 0 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 3 -Hd -2 -Ni 3 -Nx 10.78 -Ny 13.90 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 3.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 1 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 3 -Hd -2 -Ni 3 -Nx 10.78 -Ny 13.90 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 3.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 1 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 4 -Hd -2 -Ni 4 -Nx 9.00 -Ny 0.10 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 4.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 2 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 4 -Hd -2 -Ni 4 -Nx 9.00 -Ny 0.10 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 4.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 2 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 5 -Hd -2 -Ni 5 -Nx 5.03 -Ny 8.07 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 5.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 3 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 5 -Hd -2 -Ni 5 -Nx 5.03 -Ny 8.07 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 5.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 3 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 6 -Hd -2 -Ni 6 -Nx 7.93 -Ny 19.31 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 6.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 4 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 6 -Hd -2 -Ni 6 -Nx 7.93 -Ny 19.31 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 6.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 4 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 7 -Hd -2 -Ni 7 -Nx 8.01 -Ny 9.37 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 7.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 5 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 7 -Hd -2 -Ni 7 -Nx 8.01 -Ny 9.37 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 7.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 5 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 8 -Hd -2 -Ni 8 -Nx 7.75 -Ny 2.50 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 6 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 8 -Hd -2 -Ni 8 -Nx 7.75 -Ny 2.50 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 6 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 9 -Hd -2 -Ni 9 -Nx 15.36 -Ny 0.40 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 9.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 7 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 9 -Hd -2 -Ni 9 -Nx 15.36 -Ny 0.40 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 9.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 7 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 10 -Hd -2 -Ni 10 -Nx 1.89 -Ny 11.20 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 10.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 8 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 10 -Hd -2 -Ni 10 -Nx 1.89 -Ny 11.20 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 10.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 8 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 11 -Hd -2 -Ni 11 -Nx 7.77 -Ny 17.11 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 11.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 9 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 11 -Hd -2 -Ni 11 -Nx 7.77 -Ny 17.11 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 11.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 9 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 12 -Hd -2 -Ni 12 -Nx 18.12 -Ny 15.08 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 10 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 12 -Hd -2 -Ni 12 -Nx 18.12 -Ny 15.08 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 10 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 13 -Hd -2 -Ni 13 -Nx 9.56 -Ny 9.80 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 13.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 11 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 13 -Hd -2 -Ni 13 -Nx 9.56 -Ny 9.80 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 13.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 11 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 14 -Hd -2 -Ni 14 -Nx 11.49 -Ny 5.36 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 14.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 12 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 14 -Hd -2 -Ni 14 -Nx 11.49 -Ny 5.36 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 14.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 12 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 15 -Hd -2 -Ni 15 -Nx 6.15 -Ny 13.07 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 15.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 13 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 15 -Hd -2 -Ni 15 -Nx 6.15 -Ny 13.07 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 15.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 13 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 16 -Hd -2 -Ni 16 -Nx 11.22 -Ny 18.79 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 16.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 14 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 16 -Hd -2 -Ni 16 -Nx 11.22 -Ny 18.79 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 16.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 14 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 17 -Hd -2 -Ni 17 -Nx 6.94 -Ny 17.84 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 17.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 15 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 17 -Hd -2 -Ni 17 -Nx 6.94 -Ny 17.84 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 17.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 15 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 18 -Hd -2 -Ni 18 -Nx 15.12 -Ny 15.50 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 18.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 16 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 18 -Hd -2 -Ni 18 -Nx 15.12 -Ny 15.50 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 18.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 16 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 19 -Hd -2 -Ni 19 -Nx 17.88 -Ny 0.56 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 19.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 17 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 19 -Hd -2 -Ni 19 -Nx 17.88 -Ny 0.56 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 19.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 17 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 20 -Hd -2 -Ni 20 -Nx 7.76 -Ny 13.49 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 20.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 18 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 20 -Hd -2 -Ni 20 -Nx 7.76 -Ny 13.49 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 20.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 18 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 21 -Hd -2 -Ni 21 -Nx 0.09 -Ny 11.49 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 21.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 19 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 21 -Hd -2 -Ni 21 -Nx 0.09 -Ny 11.49 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 21.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 19 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 22 -Hd -2 -Ni 22 -Nx 4.53 -Ny 15.19 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 22.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 20 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 22 -Hd -2 -Ni 22 -Nx 4.53 -Ny 15.19 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 22.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 20 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 23 -Hd -2 -Ni 23 -Nx 6.82 -Ny 13.74 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 23.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 21 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 23 -Hd -2 -Ni 23 -Nx 6.82 -Ny 13.74 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 23.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 21 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 24 -Hd -2 -Ni 24 -Nx 3.06 -Ny 1.96 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 24.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 22 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 24 -Hd -2 -Ni 24 -Nx 3.06 -Ny 1.96 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 24.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 22 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 25 -Hd -2 -Ni 25 -Nx 6.01 -Ny 10.82 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 25.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 23 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 25 -Hd -2 -Ni 25 -Nx 6.01 -Ny 10.82 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 25.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 23 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 26 -Hd -2 -Ni 26 -Nx 2.05 -Ny 4.08 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 26.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 24 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 26 -Hd -2 -Ni 26 -Nx 2.05 -Ny 4.08 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 26.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 24 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 27 -Hd -2 -Ni 27 -Nx 5.70 -Ny 11.76 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 27.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 25 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 27 -Hd -2 -Ni 27 -Nx 5.70 -Ny 11.76 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 27.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 25 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 28 -Hd -2 -Ni 28 -Nx 0.36 -Ny 9.82 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 28.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 26 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 28 -Hd -2 -Ni 28 -Nx 0.36 -Ny 9.82 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 28.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 26 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 29 -Hd -2 -Ni 29 -Nx 17.69 -Ny 13.21 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 29.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 27 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 29 -Hd -2 -Ni 29 -Nx 17.69 -Ny 13.21 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 29.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 27 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 30 -Hd -2 -Ni 30 -Nx 8.95 -Ny 14.40 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 30.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 28 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 30 -Hd -2 -Ni 30 -Nx 8.95 -Ny 14.40 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 30.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 28 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 31 -Hd -2 -Ni 31 -Nx 8.95 -Ny 10.36 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 31.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 29 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 31 -Hd -2 -Ni 31 -Nx 8.95 -Ny 10.36 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 31.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 29 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 32 -Hd -2 -Ni 32 -Nx 2.65 -Ny 10.78 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 32.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 30 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 32 -Hd -2 -Ni 32 -Nx 2.65 -Ny 10.78 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 32.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 30 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 33 -Hd -2 -Ni 33 -Nx 6.78 -Ny 18.71 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 33.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 31 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 33 -Hd -2 -Ni 33 -Nx 6.78 -Ny 18.71 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 33.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 31 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 34 -Hd -2 -Ni 34 -Nx 4.74 -Ny 11.83 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 34.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 32 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 34 -Hd -2 -Ni 34 -Nx 4.74 -Ny 11.83 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 34.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 32 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 35 -Hd -2 -Ni 35 -Nx 3.06 -Ny 1.16 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 35.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 33 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 35 -Hd -2 -Ni 35 -Nx 3.06 -Ny 1.16 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 35.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 33 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 36 -Hd -2 -Ni 36 -Nx 7.85 -Ny 2.35 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 36.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 34 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 36 -Hd -2 -Ni 36 -Nx 7.85 -Ny 2.35 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 36.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 34 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 37 -Hd -2 -Ni 37 -Nx 17.36 -Ny 13.02 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 37.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 35 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 37 -Hd -2 -Ni 37 -Nx 17.36 -Ny 13.02 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 37.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 35 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 38 -Hd -2 -Ni 38 -Nx 9.78 -Ny 19.36 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 38.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 36 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 38 -Hd -2 -Ni 38 -Nx 9.78 -Ny 19.36 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 38.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 36 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 39 -Hd -2 -Ni 39 -Nx 15.11 -Ny 9.70 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 39.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 37 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 39 -Hd -2 -Ni 39 -Nx 15.11 -Ny 9.70 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 39.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 37 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 40 -Hd -2 -Ni 40 -Nx 19.57 -Ny 17.19 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 40.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 38 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 40 -Hd -2 -Ni 40 -Nx 19.57 -Ny 17.19 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 40.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 38 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 41 -Hd -2 -Ni 41 -Nx 17.01 -Ny 0.51 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 41.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 39 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 41 -Hd -2 -Ni 41 -Nx 17.01 -Ny 0.51 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 41.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 39 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 42 -Hd -2 -Ni 42 -Nx 19.26 -Ny 13.85 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 42.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 40 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 42 -Hd -2 -Ni 42 -Nx 19.26 -Ny 13.85 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 42.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 40 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 43 -Hd -2 -Ni 43 -Nx 13.62 -Ny 9.69 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 43.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 41 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 43 -Hd -2 -Ni 43 -Nx 13.62 -Ny 9.69 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 43.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 41 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 44 -Hd -2 -Ni 44 -Nx 12.93 -Ny 9.00 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 44.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 42 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 44 -Hd -2 -Ni 44 -Nx 12.93 -Ny 9.00 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 44.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 42 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 45 -Hd -2 -Ni 45 -Nx 14.03 -Ny 17.10 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 45.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 43 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 45 -Hd -2 -Ni 45 -Nx 14.03 -Ny 17.10 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 45.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 43 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 46 -Hd -2 -Ni 46 -Nx 10.89 -Ny 16.67 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 46.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 44 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 46 -Hd -2 -Ni 46 -Nx 10.89 -Ny 16.67 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 46.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 44 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 47 -Hd -2 -Ni 47 -Nx 15.93 -Ny 7.16 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 47.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 45 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 47 -Hd -2 -Ni 47 -Nx 15.93 -Ny 7.16 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 47.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 45 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 48 -Hd -2 -Ni 48 -Nx 6.40 -Ny 0.50 -Nz 0.00 -Ne 3.400000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 48.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 46 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+r -t 11.000000000 -Hs 48 -Hd -2 -Ni 48 -Nx 6.40 -Ny 0.50 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 48.0 -Id 1.0 -It cbr -Il 100 -If 2 -Ii 46 -Iv 32 -Pn cbr -Pi 0 -Pf 0 -Po 0 
+s -t 11.000000000 -Hs 2 -Hd -2 -Ni 2 -Nx 15.70 -Ny 7.62 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 2.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 2 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 3 -Hd -2 -Ni 3 -Nx 10.78 -Ny 13.90 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 3.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 3 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 4 -Hd -2 -Ni 4 -Nx 9.00 -Ny 0.10 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 4.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 4 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 5 -Hd -2 -Ni 5 -Nx 5.03 -Ny 8.07 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 5.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 5 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 6 -Hd -2 -Ni 6 -Nx 7.93 -Ny 19.31 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 6.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 6 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 7 -Hd -2 -Ni 7 -Nx 8.01 -Ny 9.37 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 7.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 7 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 8 -Hd -2 -Ni 8 -Nx 7.75 -Ny 2.50 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 8.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 8 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 9 -Hd -2 -Ni 9 -Nx 15.36 -Ny 0.40 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 9.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 9 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 10 -Hd -2 -Ni 10 -Nx 1.89 -Ny 11.20 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 10.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 10 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 11 -Hd -2 -Ni 11 -Nx 7.77 -Ny 17.11 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 11.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 11 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 12 -Hd -2 -Ni 12 -Nx 18.12 -Ny 15.08 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 12 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 13 -Hd -2 -Ni 13 -Nx 9.56 -Ny 9.80 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 13.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 13 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 14 -Hd -2 -Ni 14 -Nx 11.49 -Ny 5.36 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 14.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 14 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 15 -Hd -2 -Ni 15 -Nx 6.15 -Ny 13.07 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 15.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 15 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 16 -Hd -2 -Ni 16 -Nx 11.22 -Ny 18.79 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 16.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 16 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 17 -Hd -2 -Ni 17 -Nx 6.94 -Ny 17.84 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 17.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 17 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 18 -Hd -2 -Ni 18 -Nx 15.12 -Ny 15.50 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 18.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 18 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 19 -Hd -2 -Ni 19 -Nx 17.88 -Ny 0.56 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 19.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 19 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 20 -Hd -2 -Ni 20 -Nx 7.76 -Ny 13.49 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 20.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 20 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 21 -Hd -2 -Ni 21 -Nx 0.09 -Ny 11.49 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 21.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 21 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 22 -Hd -2 -Ni 22 -Nx 4.53 -Ny 15.19 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 22.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 22 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 23 -Hd -2 -Ni 23 -Nx 6.82 -Ny 13.74 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 23.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 23 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 24 -Hd -2 -Ni 24 -Nx 3.06 -Ny 1.96 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 24.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 24 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 25 -Hd -2 -Ni 25 -Nx 6.01 -Ny 10.82 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 25.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 25 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 26 -Hd -2 -Ni 26 -Nx 2.05 -Ny 4.08 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 26.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 26 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 27 -Hd -2 -Ni 27 -Nx 5.70 -Ny 11.76 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 27.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 27 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 28 -Hd -2 -Ni 28 -Nx 0.36 -Ny 9.82 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 28.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 28 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 29 -Hd -2 -Ni 29 -Nx 17.69 -Ny 13.21 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 29.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 29 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 30 -Hd -2 -Ni 30 -Nx 8.95 -Ny 14.40 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 30.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 30 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 31 -Hd -2 -Ni 31 -Nx 8.95 -Ny 10.36 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 31.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 31 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 32 -Hd -2 -Ni 32 -Nx 2.65 -Ny 10.78 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 32.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 32 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 33 -Hd -2 -Ni 33 -Nx 6.78 -Ny 18.71 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 33.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 33 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 34 -Hd -2 -Ni 34 -Nx 4.74 -Ny 11.83 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 34.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 34 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 35 -Hd -2 -Ni 35 -Nx 3.06 -Ny 1.16 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 35.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 35 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 36 -Hd -2 -Ni 36 -Nx 7.85 -Ny 2.35 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 36.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 36 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 37 -Hd -2 -Ni 37 -Nx 17.36 -Ny 13.02 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 37.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 37 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 38 -Hd -2 -Ni 38 -Nx 9.78 -Ny 19.36 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 38.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 38 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 39 -Hd -2 -Ni 39 -Nx 15.11 -Ny 9.70 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 39.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 39 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 40 -Hd -2 -Ni 40 -Nx 19.57 -Ny 17.19 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 40.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 40 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 41 -Hd -2 -Ni 41 -Nx 17.01 -Ny 0.51 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 41.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 41 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 42 -Hd -2 -Ni 42 -Nx 19.26 -Ny 13.85 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 42.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 42 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 43 -Hd -2 -Ni 43 -Nx 13.62 -Ny 9.69 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 43.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 43 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 44 -Hd -2 -Ni 44 -Nx 12.93 -Ny 9.00 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 44.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 44 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 45 -Hd -2 -Ni 45 -Nx 14.03 -Ny 17.10 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 45.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 45 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 46 -Hd -2 -Ni 46 -Nx 10.89 -Ny 16.67 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 46.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 46 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 47 -Hd -2 -Ni 47 -Nx 15.93 -Ny 7.16 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 47.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 47 -Pss 4 -Pc REQUEST 
+s -t 11.000000000 -Hs 48 -Hd -2 -Ni 48 -Nx 6.40 -Ny 0.50 -Nz 0.00 -Ne 3.400000 -Nl RTR -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 48.255 -Id -1.255 -It AODV -Il 48 -If 0 -Ii 0 -Iv 30 -P aodv -Pt 0x2 -Ph 1 -Pb 1 -Pd 1 -Pds 0 -Ps 48 -Pss 4 -Pc REQUEST 
+N -t 11.000345 -n 8 -e 2.849788
+N -t 11.000345 -n 33 -e 2.849788
+N -t 11.000345 -n 34 -e 2.849788
+N -t 11.000345 -n 25 -e 2.849788
+N -t 11.000345 -n 11 -e 2.849788
+N -t 11.000345 -n 15 -e 2.849788
+N -t 11.000345 -n 42 -e 2.849788
+N -t 11.000345 -n 6 -e 2.849788
+N -t 11.000345 -n 29 -e 2.849788
+N -t 11.000345 -n 16 -e 2.849788
+N -t 11.000345 -n 37 -e 2.849788
+N -t 11.000345 -n 23 -e 2.849788
+N -t 11.000345 -n 48 -e 2.849788
+N -t 11.000345 -n 24 -e 2.849788
+N -t 11.000345 -n 4 -e 2.849788
+N -t 11.000345 -n 40 -e 2.849788
+N -t 11.000345 -n 20 -e 2.849788
+N -t 11.000345 -n 3 -e 2.849788
+N -t 11.000345 -n 38 -e 2.849788
+N -t 11.000345 -n 30 -e 2.849788
+N -t 11.000345 -n 18 -e 2.849788
+N -t 11.000345 -n 35 -e 2.849788
+N -t 11.000345 -n 1 -e 2.849788
+N -t 11.000345 -n 11 -e 2.849788
+N -t 11.000345 -n 45 -e 2.849788
+N -t 11.000345 -n 32 -e 2.849788
+N -t 11.000345 -n 38 -e 2.849788
+N -t 11.000345 -n 7 -e 2.849788
+N -t 11.000345 -n 31 -e 2.849788
+N -t 11.000345 -n 22 -e 2.849788
+N -t 11.000345 -n 22 -e 2.849788
+N -t 11.000345 -n 5 -e 2.849788
+N -t 11.000345 -n 10 -e 2.849788
+N -t 11.000345 -n 6 -e 2.849788
+N -t 11.000345 -n 30 -e 2.849788
+N -t 11.000345 -n 23 -e 2.849788
+N -t 11.000345 -n 46 -e 2.849323
+N -t 11.000345 -n 17 -e 2.849323
+N -t 11.000345 -n 30 -e 2.849788
+N -t 11.000345 -n 13 -e 2.849788
+N -t 11.000345 -n 16 -e 2.849788
+N -t 11.000345 -n 18 -e 2.849788
+N -t 11.000345 -n 20 -e 2.849788
+N -t 11.000345 -n 1 -e 2.849788
+N -t 11.000345 -n 20 -e 2.849788
+N -t 11.000345 -n 45 -e 2.849788
+N -t 11.000345 -n 0 -e 2.849788
+N -t 11.000345 -n 33 -e 2.849788
+N -t 11.000345 -n 14 -e 2.849788
+N -t 11.000345 -n 24 -e 2.849788
+N -t 11.000345 -n 15 -e 2.849788
+N -t 11.000345 -n 35 -e 2.849788
+N -t 11.000345 -n 5 -e 2.849788
+N -t 11.000345 -n 23 -e 2.849788
+N -t 11.000345 -n 3 -e 2.849788
+N -t 11.000345 -n 3 -e 2.849788
+N -t 11.000345 -n 21 -e 2.849788
+N -t 11.000345 -n 48 -e 2.849788
+N -t 11.000345 -n 28 -e 2.849788
+N -t 11.000345 -n 11 -e 2.849788
+N -t 11.000345 -n 8 -e 2.849788
+N -t 11.000345 -n 15 -e 2.849788
+N -t 11.000345 -n 28 -e 2.849788
+N -t 11.000345 -n 36 -e 2.849323
+N -t 11.000345 -n 26 -e 2.849323
+N -t 11.000345 -n 39 -e 2.849788
+N -t 11.000345 -n 27 -e 2.849323
+N -t 11.000345 -n 17 -e 2.849323
+N -t 11.000345 -n 5 -e 2.849788
+N -t 11.000345 -n 34 -e 2.849788
+N -t 11.000345 -n 22 -e 2.849788
+N -t 11.000345 -n 31 -e 2.849788
+N -t 11.000345 -n 32 -e 2.849788
+N -t 11.000345 -n 13 -e 2.849788
+N -t 11.000345 -n 43 -e 2.849788
+N -t 11.000345 -n 7 -e 2.849788
+N -t 11.000345 -n 33 -e 2.849788
+N -t 11.000345 -n 25 -e 2.849788
+N -t 11.000345 -n 10 -e 2.849788
+N -t 11.000345 -n 45 -e 2.849788
+N -t 11.000345 -n 46 -e 2.849323
+N -t 11.000345 -n 27 -e 2.849323
+N -t 11.000345 -n 46 -e 2.849323
+N -t 11.000345 -n 12 -e 2.849323
+N -t 11.000345 -n 3 -e 2.849788
+N -t 11.000345 -n 37 -e 2.849788
+N -t 11.000345 -n 43 -e 2.849788
+N -t 11.000345 -n 25 -e 2.849788
+N -t 11.000345 -n 29 -e 2.849788
+N -t 11.000345 -n 13 -e 2.849788
+N -t 11.000345 -n 21 -e 2.849788
+N -t 11.000345 -n 31 -e 2.849788
+N -t 11.000345 -n 44 -e 2.849788
+N -t 11.000345 -n 9 -e 2.849788
+N -t 11.000345 -n 25 -e 2.849788
+N -t 11.000345 -n 34 -e 2.849788
+N -t 11.000345 -n 16 -e 2.849788
+N -t 11.000345 -n 7 -e 2.849788
+N -t 11.000345 -n 2 -e 2.849788
+N -t 11.000345 -n 6 -e 2.849788
+N -t 11.000345 -n 44 -e 2.849788
+N -t 11.000345 -n 7 -e 2.849788
+N -t 11.000345 -n 44 -e 2.849788
+N -t 11.000345 -n 4 -e 2.849788
+N -t 11.000345 -n 31 -e 2.849788
+N -t 11.000345 -n 39 -e 2.849788
+N -t 11.000345 -n 43 -e 2.849788
+N -t 11.000345 -n 0 -e 2.849788
+N -t 11.000345 -n 34 -e 2.849788
+N -t 11.000345 -n 47 -e 2.849788
+N -t 11.000345 -n 32 -e 2.849788
+N -t 11.000345 -n 10 -e 2.849788
+N -t 11.000345 -n 44 -e 2.849788
+N -t 11.000345 -n 13 -e 2.849788
+N -t 11.000345 -n 27 -e 2.849323
+N -t 11.000345 -n 26 -e 2.849323
+N -t 11.000345 -n 18 -e 2.849788
+N -t 11.000345 -n 7 -e 2.849788
+N -t 11.000345 -n 1 -e 2.849788
+N -t 11.000345 -n 38 -e 2.849788
+N -t 11.000345 -n 14 -e 2.849788
+N -t 11.000345 -n 25 -e 2.849788
+N -t 11.000345 -n 40 -e 2.849788
+N -t 11.000345 -n 42 -e 2.849788
+N -t 11.000345 -n 16 -e 2.849788
+N -t 11.000345 -n 30 -e 2.849788
+N -t 11.000345 -n 31 -e 2.849788
+N -t 11.000345 -n 43 -e 2.849788
+N -t 11.000345 -n 21 -e 2.849788
+N -t 11.000345 -n 41 -e 2.849788
+N -t 11.000345 -n 38 -e 2.849788
+N -t 11.000345 -n 47 -e 2.849788
+N -t 11.000345 -n 13 -e 2.849788
+N -t 11.000345 -n 2 -e 2.849788
+N -t 11.000345 -n 8 -e 2.849788
+N -t 11.000345 -n 14 -e 2.849788
+N -t 11.000345 -n 39 -e 2.849788
+N -t 11.000345 -n 36 -e 2.849323
+N -t 11.000345 -n 27 -e 2.849323
+N -t 11.000345 -n 1 -e 2.849788
+N -t 11.000345 -n 15 -e 2.849788
+N -t 11.000345 -n 45 -e 2.849788
+N -t 11.000345 -n 32 -e 2.849788
+N -t 11.000345 -n 5 -e 2.849788
+N -t 11.000345 -n 34 -e 2.849788
+N -t 11.000345 -n 13 -e 2.849788
+N -t 11.000345 -n 32 -e 2.849788
+N -t 11.000345 -n 18 -e 2.849788
+N -t 11.000345 -n 24 -e 2.849788
+N -t 11.000345 -n 19 -e 2.849788
+N -t 11.000345 -n 2 -e 2.849788
+N -t 11.000345 -n 31 -e 2.849788
+N -t 11.000345 -n 39 -e 2.849788
+N -t 11.000345 -n 28 -e 2.849788
+N -t 11.000345 -n 5 -e 2.849788
+N -t 11.000345 -n 20 -e 2.849788
+N -t 11.000345 -n 10 -e 2.849788
+N -t 11.000345 -n 43 -e 2.849788
+N -t 11.000345 -n 11 -e 2.849788
+N -t 11.000345 -n 28 -e 2.849788
+N -t 11.000345 -n 10 -e 2.849788
+N -t 11.000345 -n 44 -e 2.849788
+N -t 11.000345 -n 47 -e 2.849788
+N -t 11.000345 -n 23 -e 2.849788
+N -t 11.000345 -n 2 -e 2.849788
+N -t 11.000345 -n 15 -e 2.849788
+N -t 11.000345 -n 35 -e 2.849788
+N -t 11.000345 -n 20 -e 2.849788
+N -t 11.000345 -n 6 -e 2.849788
+N -t 11.000345 -n 20 -e 2.849788
+N -t 11.000345 -n 47 -e 2.849788
+N -t 11.000345 -n 48 -e 2.849788
+N -t 11.000345 -n 14 -e 2.849788
+N -t 11.000345 -n 22 -e 2.849788
+N -t 11.000345 -n 23 -e 2.849788
+N -t 11.000345 -n 23 -e 2.849788
+N -t 11.000345 -n 37 -e 2.849788
+N -t 11.000345 -n 17 -e 2.849323
+N -t 11.000345 -n 12 -e 2.849323
+N -t 11.000345 -n 39 -e 2.849788
+N -t 11.000345 -n 7 -e 2.849788
+N -t 11.000345 -n 29 -e 2.849788
+N -t 11.000345 -n 37 -e 2.849788
+N -t 11.000345 -n 14 -e 2.849788
+N -t 11.000345 -n 33 -e 2.849788
+N -t 11.000345 -n 3 -e 2.849788
+N -t 11.000345 -n 44 -e 2.849788
+N -t 11.000345 -n 21 -e 2.849788
+N -t 11.000345 -n 21 -e 2.849788
+N -t 11.000345 -n 29 -e 2.849788
+N -t 11.000345 -n 30 -e 2.849788
+N -t 11.000345 -n 4 -e 2.849788
+N -t 11.000345 -n 15 -e 2.849788
+N -t 11.000345 -n 30 -e 2.849788
+N -t 11.000345 -n 28 -e 2.849788
+N -t 11.000345 -n 40 -e 2.849788
+N -t 11.000345 -n 25 -e 2.849788
+N -t 11.000345 -n 43 -e 2.849788
+N -t 11.000345 -n 27 -e 2.849323
+N -t 11.000345 -n 12 -e 2.849323
+N -t 11.000345 -n 42 -e 2.849788
+N -t 11.000345 -n 0 -e 2.849788
+N -t 11.000345 -n 3 -e 2.849788
+N -t 11.000345 -n 22 -e 2.849788
+N -t 11.000345 -n 14 -e 2.849788
+N -t 11.000345 -n 2 -e 2.849788
+N -t 11.000345 -n 22 -e 2.849788
+N -t 11.000345 -n 42 -e 2.849788
+N -t 11.000345 -n 34 -e 2.849788
+N -t 11.000345 -n 9 -e 2.849788
+N -t 11.000345 -n 47 -e 2.849788
+N -t 11.000345 -n 2 -e 2.849788
+N -t 11.000345 -n 39 -e 2.849788
+N -t 11.000345 -n 47 -e 2.849788
+N -t 11.000345 -n 11 -e 2.849788
+N -t 11.000345 -n 37 -e 2.849788
+N -t 11.000345 -n 8 -e 2.849788
+N -t 11.000345 -n 19 -e 2.849788
+N -t 11.000345 -n 1 -e 2.849788
+N -t 11.000345 -n 26 -e 2.849323
+N -t 11.000345 -n 17 -e 2.849323
+N -t 11.000345 -n 41 -e 2.849788
+N -t 11.000345 -n 46 -e 2.849323
+N -t 11.000345 -n 36 -e 2.849323
+N -t 11.000345 -n 29 -e 2.849788
+N -t 11.000345 -n 11 -e 2.849788
+N -t 11.000345 -n 5 -e 2.849788
+N -t 11.000345 -n 40 -e 2.849788
+N -t 11.000345 -n 9 -e 2.849788
+N -t 11.000345 -n 9 -e 2.849788
+N -t 11.000345 -n 18 -e 2.849788
+N -t 11.000345 -n 8 -e 2.849788
+N -t 11.000345 -n 33 -e 2.849788
+N -t 11.000345 -n 46 -e 2.849323
+N -t 11.000345 -n 26 -e 2.849323
+N -t 11.000345 -n 41 -e 2.849788
+N -t 11.000345 -n 36 -e 2.849323
+N -t 11.000345 -n 17 -e 2.849323
+N -t 11.000345 -n 41 -e 2.849788
+N -t 11.000345 -n 45 -e 2.849788
+N -t 11.000345 -n 32 -e 2.849788
+N -t 11.000345 -n 42 -e 2.849788
+N -t 11.000345 -n 19 -e 2.849788
+N -t 11.000345 -n 8 -e 2.849788
+N -t 11.000345 -n 6 -e 2.849788
+N -t 11.000345 -n 24 -e 2.849788
+N -t 11.000345 -n 36 -e 2.849323
+N -t 11.000345 
