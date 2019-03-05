@@ -1,0 +1,26 @@
+Erlend http://erl1.wordpress.com/2010/08/10/running-tora-in-ns-2-34-on-ubuntu-10-04/
+files tora.cc, tora.h http://wpage.unina.it/marcello.caleffi/ns2/tora.html
+
+
+
+Ex     http://forums.techarena.in/networking-security/1127469.htm
+Files   http://www-sop.inria.fr/members/Eitan.Altman/ns.htm
+
+
+
+
+http://wpage.unina.it/marcello.caleffi/ns2/tora.html
+
+
+http://ipsit.bu.edu/sc546/sc546Fall2002/NS80211/files/tora.tcl
+
+
+
+
+
+
+$ perl throughput.pl 1_out.tr 1 > throughput.pl-out && xgraph throughput.pl-out
+
+
+
+
