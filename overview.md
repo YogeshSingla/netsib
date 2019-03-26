@@ -19,6 +19,16 @@ tr  : performance measurements in the trace file
 
 Details of trace file can be found here:https://www.isi.edu/nsnam/ns/doc/node289.html
 
+## record
+* No lines of code
+* Only procedure
+* Write theory related to question
+* Observations : which protocols performed better
+* Present logic
+* Explain terms
+* Don't repeat theory terms between experiements. Avoid redundancies.
+
+
 ## References
 1. The basics of ns are here: http://nile.wpi.edu/NS/simple_ns.html. This is useful to understand the tcl file.
 2. Intermediate ns: https://www-sop.inria.fr/members/Eitan.Altman/ns.htm
