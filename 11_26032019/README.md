@@ -7,12 +7,13 @@ Rest nodes are helpful in forwarding the packets
 ## Solution 1
  
 ### AODV
-(send:	 1001 )
-(recv:	 996 )
-(Total number of packets received:	 994 )
-Transmission start time:	 0.000000000
-Transmission end time:		 99.918080396
-Total transmission time in seconds:  99.9181
+
+(send:	 1001 )  
+(recv:	 996 )  
+(Total number of packets received:	 994 )  
+Transmission start time:	 0.000000000  
+Transmission end time:		 99.918080396  
+Total transmission time in seconds:  99.9181  
 ------------------------
 PERFORMANCE:
 ------------------------
