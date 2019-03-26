@@ -6,7 +6,7 @@ Rest nodes are helpful in forwarding the packets
 
 ## Solution 1
 
-### AODV
+### AODV  
 
 (send:	 1001 )
 (recv:	 996 )
@@ -25,7 +25,7 @@ Energy consumed:	 8.8
 
 
 
-### DSDV
+### DSDV  
 
 (send:	 1001 )
 (recv:	 398 )
@@ -42,7 +42,7 @@ Throughput:			 19787.6  bytes/second
 Energy consumed:	 8.8
 
 
-### DSR
+### DSR  
 (send:	 1001 )
 (recv:	 1001 )
 (Total number of packets received:	 1000 )
@@ -59,7 +59,7 @@ Energy consumed:	 8.8
 
 ## Solution 2
 
-### AODV
+### AODV  
 (send:	 1001 )
 (recv:	 883 )
 (Total number of packets received:	 881 )
@@ -75,7 +75,7 @@ Throughput:			 42394.9  bytes/second
 Energy consumed:	 8.8
 
 
-### DSDV
+### DSDV  
 (send:	 1001 )
 (recv:	 429 )
 (Total number of packets received:	 428 )
@@ -85,13 +85,13 @@ Total transmission time in seconds:  87.612
 ------------------------
 PERFORMANCE:
 ------------------------
-PDR:	 0.428571
+	PDR:	 0.428571
 End to end delay of packets received:	 0.00935385
 Throughput:			 20841.7  bytes/second
 Energy consumed:	 8.8
 
 
-### DSR
+### DSR  
 (send:	 1001 )
 (recv:	 888 )
 (Total number of packets received:	 887 )
