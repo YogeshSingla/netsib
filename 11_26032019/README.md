@@ -1,12 +1,12 @@
 # Topologies
 
-Base station is the sink
-Phenomenon is the source
-Rest nodes are helpful in forwarding the packets
+Base station is the sink  
+Phenomenon is the source  
+Rest nodes are helpful in forwarding the packets  
 
 ## Solution 1
-
-### AODV  
+ 
+### AODV
 
 (send:	 1001 )
 (recv:	 996 )
@@ -21,8 +21,6 @@ PDR:	 0.995005
 End to end delay of packets received:	 0.0107032
 Throughput:			 42424.5  bytes/second
 Energy consumed:	 8.8
-
-
 
 
 ### DSDV  
