@@ -7,7 +7,6 @@ Rest nodes are helpful in forwarding the packets
 ## Solution 1
  
 ### AODV
-
 (send:	 1001 )
 (recv:	 996 )
 (Total number of packets received:	 994 )
@@ -40,7 +39,7 @@ Throughput:			 19787.6  bytes/second
 Energy consumed:	 8.8
 
 
-### DSR  
+### DSR    
 (send:	 1001 )
 (recv:	 1001 )
 (Total number of packets received:	 1000 )
@@ -57,7 +56,7 @@ Energy consumed:	 8.8
 
 ## Solution 2
 
-### AODV  
+### AODV    
 (send:	 1001 )
 (recv:	 883 )
 (Total number of packets received:	 881 )
