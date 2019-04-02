@@ -11,6 +11,20 @@ https://sourceforge.net/projects/nsnam/
 Use the link of blogpost to follow the detailed steps for installation.
 http://installwithme.blogspot.com/2014/05/how-to-install-ns-2.35-in-ubuntu-13.10-or-14.04.html
 
+## Installation of ns2.34 on Ubuntu 18.04
+1. Install 
+```
+
+sudo apt install gcc-4.8 g++-4.8
+```
+2. Follow all the steps at: http://surajpatilworld.blogspot.com/2015/02/step-by-step-installation-of-ns-234-on.html
+Note the typo of ns2.35 in step 5. This step has to be done for ns2.34 as well.
+Line number for step 6 is 6304 as given at https://www.nsnam.com/2011/08/ns234-installation-in-ubuntu-1104.html
+Most likely you will be using newer version of gcc and g++. 
+Before running the ./install command export the older gcc and g++.```export CC=gcc-4.8 CXX=g++-4.8```.
+
+3. ns and nam are working after this steps in Ubuntu 18.04 on a 64 bit machine.
+
 ## ns2 logical stack
 cpp : Properties and structure
 tcl : scripts built to use the ns2 cpp files
