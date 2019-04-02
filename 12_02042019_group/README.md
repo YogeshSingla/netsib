@@ -14,3 +14,4 @@ PEGASIS: Power-Efficient GAthering in Sensor Information Systems
 ## Ref
 http://network-simulator-ns-2.7690.n7.nabble.com/Source-code-of-PEGASIS-for-NS2-34-td29323.html
 matlab imp: http://www.njavaid.com/downloads.aspx
+https://sipnoobs.wordpress.com/2015/01/05/guidance-to-run-pegasis-and-leach-on-ns-2-2-34/
