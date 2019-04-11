@@ -6,8 +6,8 @@ Rest nodes are helpful in forwarding the packets
 
 ## Solution 1
  
-### AODV
-
+### AODV 
+```
 (send:	 1001 )  
 (recv:	 996 )  
 (Total number of packets received:	 994 )  
@@ -21,10 +21,10 @@ PDR:	 0.995005
 End to end delay of packets received:	 0.0107032
 Throughput:			 42424.5  bytes/second
 Energy consumed:	 8.8
-
+```
 
 ### DSDV  
-
+```
 (send:	 1001 )
 (recv:	 398 )
 (Total number of packets received:	 397 )
@@ -38,9 +38,10 @@ PDR:	 0.397602
 End to end delay of packets received:	 0.00925432
 Throughput:			 19787.6  bytes/second
 Energy consumed:	 8.8
-
+```
 
 ### DSR    
+```
 (send:	 1001 )
 (recv:	 1001 )
 (Total number of packets received:	 1000 )
@@ -54,10 +55,12 @@ PDR:	 1
 End to end delay of packets received:	 0.0108541
 Throughput:			 41037.2  bytes/second
 Energy consumed:	 8.8
+```
 
 ## Solution 2
 
 ### AODV    
+```
 (send:	 1001 )
 (recv:	 883 )
 (Total number of packets received:	 881 )
@@ -71,9 +74,9 @@ PDR:	 0.882118
 End to end delay of packets received:	 0.0123967
 Throughput:			 42394.9  bytes/second
 Energy consumed:	 8.8
-
-
+```
 ### DSDV  
+```
 (send:	 1001 )
 (recv:	 429 )
 (Total number of packets received:	 428 )
@@ -87,9 +90,10 @@ PERFORMANCE:
 End to end delay of packets received:	 0.00935385
 Throughput:			 20841.7  bytes/second
 Energy consumed:	 8.8
-
+```
 
 ### DSR  
+```
 (send:	 1001 )
 (recv:	 888 )
 (Total number of packets received:	 887 )
@@ -103,4 +107,4 @@ PDR:	 0.887113
 End to end delay of packets received:	 0.0132343
 Throughput:			 41046.7  bytes/second
 Energy consumed:	 8.8
-
+```
