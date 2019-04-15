@@ -25,6 +25,20 @@ kirito@kirito-HP-Notebook:~/my_ns/gp$ export CC=gcc-4.8 CXX=g++-4.8
 
 4. Follow step 9-13 adding your path instead of 'wsn'
 
+5. RCA LIBRARY:
+```
+export RCA_LIBRARY=/home/kirito/my_ns/ns-allinone-2.34/ns-2.34/mit/rca && export uAMPS_LIBRARY=/home/kirito/my_ns/ns-allinone-2.34/ns-2.34/mit/uAMPS
+
+export RCA_LIBRARY=/home/kirito/ns/ns-allinone-2.34/ns-2.34/mit/rca && export uAMPS_LIBRARY=/home/kirito/ns/ns-allinone-2.34/ns-2.34/mit/uAMPS
+
+```
+
+### Observations
+
+exidus is the nick of Tomas Takacs - FIIT STUBA who has written the pegasis code for the MIT-uAMPS project which implemented leach. https://is.stuba.sk/lide/clovek.pl?id=48025
+
+knudfl seems to be core ns guy who has written multiple patches.
+
 ## Ref
 https://www.linuxquestions.org/questions/linux-software-2/how-to-add-a-nam-file-on-leach-protocol-937219-print/
 http://network-simulator-ns-2.7690.n7.nabble.com/Source-code-of-PEGASIS-for-NS2-34-td29323.html
